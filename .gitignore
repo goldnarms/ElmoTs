@@ -228,3 +228,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+src/BoilerplateTS/wwwroot/.tscache/
+src/BoilerplateTS/wwwroot/bower_components/
+src/BoilerplateTS/wwwroot/dist/
+src/BoilerplateTS/wwwroot/typings/
